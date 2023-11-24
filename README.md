@@ -43,3 +43,22 @@ Câu e.
     Actions:
     
     GitHub Actions là một hệ thống liên tục tích hợp và triển khai (CI/CD) tích hợp trực tiếp vào repository của bạn. Bạn có thể tự động hóa các công việc như kiểm thử, xây dựng và triển khai.
+Câu f
+    1 Chọn Dự án Python trên GitHub:
+Tìm một dự án Python trên GitHub mà bạn quan tâm
+    2 Clone Dự án về Local Repository: git clone https://github.com/pallets/flask.git
+cd flask
+    3 Tạo Nhánh và Thực Hiện Chỉnh Sửa: 
+Tạo một nhánh mới để thực hiện các thay đổi: git checkout -b feature/my-changes
+Mở và chỉnh sửa các tệp tin trong dự án theo nhu cầu của bạn.
+    4 Kiểm Tra Trạng Thái và Commit Chỉnh Sửa:
+Kiểm tra trạng thái của các tệp đã chỉnh sửa: git status
+Thêm các tệp đã chỉnh sửa vào vùng chờ: git add .
+Commit các thay đổi: git commit -m "Add my changes"
+     5 Đẩy Nhánh và Thực Hiện Pull Request:
+Đẩy nhánh mới với các thay đổi lên repository remote trên GitHub: git push origin feature/my-changes
+Truy cập repository trên GitHub và tạo Pull Request từ nhánh mới của bạn.
+     6 Review và Merge Pull Request (tùy chọn):
+Nếu bạn có quyền, bạn hoặc người khác có thể xem xét và chấp nhận (merge) Pull Request của bạn trên GitHub
+     7 Cập Nhật Local Repository với Thay Đổi Mới (tùy chọn):
+Nếu Pull Request của bạn đã được merge, bạn có thể cập nhật local repository với thay đổi mới: git checkout main/git pull origin main

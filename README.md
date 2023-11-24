@@ -1,4 +1,4 @@
-# Nhóm-1 CNTT 4
+# Nhóm-1 CNTT 4 Thành viên nhóm: Vũ Minh Trung, Nguyễn Anh Tuấn, Nguyễn Ngọc Tuấn
 Câu b.
      Tab "Code":
      Chức năng: Tab "Code" là nơi bạn có thể xem mã nguồn của dự án.
